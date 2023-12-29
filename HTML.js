@@ -5,6 +5,7 @@ export class Button {
 	divSignature
 	constructor(top) {
 		top = this.top
+		//prover disk
 		//this.divMain = document.createElement('div')
 		//this.divMain.style.cssText += `
 		//top: ${top};
