@@ -23,11 +23,12 @@ const controls = new OrbitControls(camera, renderer.domElement)
 function animate() {
 	requestAnimationFrame(animate)
 	controls.update()
+
 	renderer.render(scene, camera)
 }
 animate()
 //Test Cube
 const geometry = new THREE.BoxGeometry(1, 1, 1)
-const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 })
+const material = new THREE.MeshBasicMaterial({ color: 0xff0000 })
 const cube = new THREE.Mesh(geometry, material)
 scene.add(cube)
