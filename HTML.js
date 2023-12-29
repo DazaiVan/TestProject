@@ -1,11 +1,14 @@
 export class Button {
 	constructor() {
-		divMain = document.createElement('div')
-		divButton = document.createElement('div')
-		divIMG = document.createElement('div')
-		divSignature = document.createElement('div')
-		divMain.appendChild(divButton)
-		divButton.appendChild(divIMG)
-		divMain.appendChild(divSignature)
+		this.divMain = document.createElement('div')
+		this.divButton = document.createElement('div')
+		this.divIMG = document.createElement('div')
+		this.divSignature = document.createElement('div')
+		this.divMain.appendChild(this.divButton)
+		this.divButton.appendChild(this.divIMG)
+		this.divMain.appendChild(this.divSignature)
+	}
+	getDivMain() {
+		return this.divMain
 	}
 }
