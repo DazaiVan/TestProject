@@ -1,5 +1,7 @@
 console.log('Connect')
-
+import { Button } from './HTML'
+var ButtonTest = new Button()
+console.log(ButtonTest.divMain)
 //import
 import * as THREE from 'three'
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
