@@ -12,6 +12,7 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
+    "jquery": "^3.7.1",
     "three": "^0.160.0"
   }
 }

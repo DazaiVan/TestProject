@@ -1,6 +1,10 @@
 export class Button {
-	constructor() {
+	constructor(top) {
+		top = this.top
 		this.divMain = document.createElement('div')
+		this.divMain.style.cssText += `
+			top: ${top};
+		`
 		this.divButton = document.createElement('div')
 		this.divIMG = document.createElement('div')
 		this.divSignature = document.createElement('div')
