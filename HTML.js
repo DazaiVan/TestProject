@@ -5,11 +5,6 @@ export class Button {
 	divSignature
 	constructor(width, height, position, top, right, zIndex) {
 		this.divMain = document.createElement('div')
-		this.divMain.style.width = this.width
-		this.divMain.style.height = this.height
-		this.divMain.style.top = this.top
-		this.divMain.style.right = this.right
-		this.divMain.style.zIndex = this.zIndex
 		this.divButton = document.createElement('div')
 		this.divIMG = document.createElement('div')
 		this.divSignature = document.createElement('div')
@@ -29,5 +24,13 @@ export class Button {
 	}
 	getDivSignature() {
 		return this.divMain
+	}
+	settingDivMain(width, height, position, top, right, zIndex) {
+		this.divMain.style.width = width
+		this.divMain.style.height = height
+		this.divMain.style.position = position
+		this.divMain.style.top = top
+		this.divMain.style.right = right
+		this.divMain.style.zIndex = zIndex
 	}
 }

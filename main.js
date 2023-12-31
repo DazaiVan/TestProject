@@ -1,13 +1,7 @@
 console.log('Connect')
 import { Button } from './HTML'
-var ButtonTest = new Button(
-	'100px',
-	'100px',
-	'absolute',
-	'100px',
-	'100px',
-	'100'
-)
+var ButtonTest = new Button()
+ButtonTest.settingDivMain('100px', '100px', 'absolute', '100px', '100px', '100')
 console.log(ButtonTest.getDivMain())
 //import
 import * as THREE from 'three'
