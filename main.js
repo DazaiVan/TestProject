@@ -1,4 +1,3 @@
-console.log('Connect')
 import { Button } from './HTML'
 var ButtonTest = new Button()
 ButtonTest.settingDivMain('100px', '100px', 'absolute', '100px', '100px', '100')
