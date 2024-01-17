@@ -7,6 +7,7 @@ console.log(ButtonTest.getDivMain())
 //import
 import * as THREE from 'three'
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
+/*
 //Scene
 const scene = new THREE.Scene()
 //Camera
@@ -36,14 +37,13 @@ const geometry = new THREE.BoxGeometry(1, 1, 1)
 const material = new THREE.MeshBasicMaterial({ color: 0xff0000 })
 const cube = new THREE.Mesh(geometry, material)
 scene.add(cube)
-
+*/
 async function LoadGeometry(targetObject) {
 	// init occt-import-js
 	const occt = await occtimportjs()
 
 	// download a step file
-	let fileUrl =
-		'https://raw.githubusercontent.com/kovacsv/occt-import-js/main/test/testfiles/cax-if/as1_pe_203.stp'
+	let fileUrl = 'public/CLGR-D0019-HOLEFLATDRILL-STP.stp'
 	let response = await fetch(fileUrl)
 	let buffer = await response.arrayBuffer()
 
@@ -90,6 +90,7 @@ async function LoadGeometry(targetObject) {
 }
 
 async function Load() {
+	console.log('LOAD')
 	const width = window.innerWidth
 	const height = window.innerHeight
 
@@ -117,12 +118,13 @@ async function Load() {
 		camera.position.z
 	)
 	scene.add(directionalLight)
-
+	const controls = new OrbitControls(camera, renderer.domElement)
 	const mainObject = new THREE.Object3D()
 	LoadGeometry(mainObject)
 	scene.add(mainObject)
 
 	renderer.setAnimationLoop(time => {
+		controls.update()
 		mainObject.rotation.x = time / 2000
 		mainObject.rotation.y = time / 1000
 		renderer.render(scene, camera)
