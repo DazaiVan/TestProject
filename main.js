@@ -34,3 +34,12 @@ const geometry = new THREE.BoxGeometry(1, 1, 1)
 const material = new THREE.MeshBasicMaterial({ color: 0xff0000 })
 const cube = new THREE.Mesh(geometry, material)
 scene.add(cube)
+let fs = require('fs')
+const occtimportjs = require('occt-import-js')()
+
+occtimportjs.then(occt => {
+	let fileUrl = '../test/testfiles/simple-basic-cube/cube.stp'
+	let fileContent = fs.readFileSync(fileUrl)
+	let result = occt.ReadStepFile(fileContent, null)
+	console.log(result)
+})
