@@ -1,0 +1,226 @@
+{
+    "iteration1": {
+        "Settings": {
+            "colspan": 0,
+            "rowspan": 0,
+            "newTable": false,
+            "newString": false,
+            "textAlign": "center",
+            "fontWeight": "bold",
+            "textDecoration": 0,
+            "nextdiv": true,
+            "display": "grid",
+            "textTransform": "uppercase",
+            "Table": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "paddingLeft": 1,
+            "paddingRight": 1,
+            "paddingTopSTR": 0,
+            "paddingBottomSTR": 0,
+            "paddingLeftSTR": 0,
+            "paddingRightSTR": 0,
+            "font":0,
+            "fontSize":0
+        }
+    },
+    "iteration2": {
+        "String": "Эксплутационный паспорт здани, сооружения и инженерных коммуникаций"
+    },
+    "iteration3": {
+        "Settings": {
+            "colspan": 0,
+            "rowspan": 0,
+            "newTable": false,
+            "newString": false,
+            "textAlign": "left",
+            "fontWeight": 0,
+            "textDecoration": 0,
+            "nextdiv": true,
+            "display": "grid",
+            "textTransform": 0,
+            "Table": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTopSTR": 0,
+            "paddingBottomSTR": 0,
+            "paddingLeftSTR": 0,
+            "paddingRightSTR": 0,
+            "font":0,
+            "fontSize":0
+		}
+        },
+        "iteration4": {
+            "String": "Составлен:___.__________202___г."
+        },
+        "iteration5": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration6": {
+            "String": "Наименование и номер учреждения"
+        },
+        "iteration7": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration8": {
+            "String": "Акционерное Общество «НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ «ИСТОК» ИМЕНИ А.И. ШОКИНА»"
+        },
+        "iteration9": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration10": {
+            "String": "Адрес:"
+        },
+        "iteration11": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration12": {
+            "String": "Московская область, 141190, г. Фрязино, ул. Вокзальная, дом 2А."
+        },
+        "iteration13": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration14": {
+            "String": "Ф.И.О. руководителя службы эксплуатации:"
+        },
+        "iteration15": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration16": {
+            "String": "Резванов Олег Григорьевич"
+        }
+}
