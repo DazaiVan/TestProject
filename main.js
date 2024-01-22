@@ -125,12 +125,11 @@ async function Load() {
 
 	renderer.setAnimationLoop(time => {
 		controls.update()
-		mainObject.rotation.x = time / 2000
-		mainObject.rotation.y = time / 1000
+		//mainObject.rotation.x = time / 2000
+		//mainObject.rotation.y = time / 1000
 		renderer.render(scene, camera)
 	})
 }
-
 Load()
 
 /*
