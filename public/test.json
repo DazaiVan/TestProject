@@ -1,0 +1,118 @@
+{
+	"Heading": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "center",
+		"fontWeight": "bold",
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": "grid",
+		"textTransform": "uppercase",
+		"Table": false,
+		"paddingTop": 2,
+		"paddingBottom": 2,
+		"paddingLeft": 1,
+		"paddingRight": 1,
+		"paddingTopSTR": 0,
+		"paddingBottomSTR": 0,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": 0,
+		"fontSize": 0
+	},
+	"Date": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "left",
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": "grid",
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 0,
+		"paddingBottomSTR": 0,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": 0,
+		"fontSize": 0
+	},
+	"UsualAndNewString": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 1.5,
+		"paddingBottomSTR": 1.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": 0,
+		"fontSize": 0
+	},
+	"HighlightedAndUnderlined": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": "bold",
+		"textDecoration": "underline",
+		"nextdiv": false,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 1.5,
+		"paddingBottomSTR": 1.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": 0,
+		"fontSize": 0
+	},
+	"iteration1": {
+		"Settings": "Heading"
+	},
+	"iteration2": {
+		"String": "Эксплутационный паспорт здани, сооружения и инженерных коммуникаций"
+	},
+	"iteration3": {
+		"Settings": "Date"
+	},
+	"iteration4": {
+		"String": "Составлен: ___. __________ 202___г."
+	},
+	"iteration5": {
+		"Settings": "UsualAndNewString"
+	},
+	"iteration6": {
+		"String": "Наименование предприятия:"
+	},
+	"iteration7": {
+		"Settings": "HighlightedAndUnderlined"
+	},
+	"iteration8": {
+		"String": "Акционерное Общество «НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ «ИСТОК» ИМЕНИ А.И. ШОКИНА»"
+	}
+}

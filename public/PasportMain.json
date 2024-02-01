@@ -1,0 +1,436 @@
+{
+	"iteration1": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": "center",
+			"fontWeight": "bold",
+			"textDecoration": 0,
+			"nextdiv": true,
+			"display": "grid",
+			"textTransform": "uppercase",
+			"Table": false,
+			"paddingTop": 2,
+			"paddingBottom": 2,
+			"paddingLeft": 1,
+			"paddingRight": 1,
+			"paddingTopSTR": 0,
+			"paddingBottomSTR": 0,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration2": {
+		"String": "Эксплутационный паспорт здани, сооружения и инженерных коммуникаций"
+	},
+	"iteration3": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": "left",
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": true,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 0,
+			"paddingBottomSTR": 0,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration4": {
+		"String": "Составлен:___.__________202___г."
+	},
+	"iteration5": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": true,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration6": {
+		"String": "Наименование и номер учреждения"
+	},
+	"iteration7": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": "bold",
+			"textDecoration": "underline",
+			"nextdiv": false,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration8": {
+		"String": "Акционерное Общество «НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ «ИСТОК» ИМЕНИ А.И. ШОКИНА»"
+	},
+	"iteration9": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": true,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration10": {
+		"String": "Адрес:"
+	},
+	"iteration11": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": "bold",
+			"textDecoration": "underline",
+			"nextdiv": false,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration12": {
+		"String": "Московская область, 141190, г. Фрязино, ул. Вокзальная, дом 2А."
+	},
+	"iteration13": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": true,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration14": {
+		"String": "Ф.И.О. руководителя службы эксплуатации:"
+	},
+	"iteration15": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": "bold",
+			"textDecoration": "underline",
+			"nextdiv": false,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration16": {
+		"String": "Резванов Олег Григорьевич"
+	},
+	"iteration17": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": true,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration18": {
+		"String": "Телефон:"
+	},
+	"iteration19": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": 0,
+			"fontWeight": "bold",
+			"textDecoration": "underline",
+			"nextdiv": false,
+			"display": 0,
+			"textTransform": 0,
+			"Table": false,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0,
+			"paddingTopSTR": 1.5,
+			"paddingBottomSTR": 1.5,
+			"paddingLeftSTR": 0,
+			"paddingRightSTR": 0,
+			"font": 0,
+			"fontSize": 0
+		}
+	},
+	"iteration20": {
+		"String": "8(495)4658666(доб. )ч"
+	},
+	"iteration21": {
+		"Settings": {
+			"colspan": 2,
+			"rowspan": 0,
+			"newTable": true,
+			"newString": true,
+			"textAlign": "center",
+			"fontWeight": "bold",
+			"textDecoration": 0,
+			"nextdiv": 0,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": true,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0
+		}
+	},
+	"iteration22": {
+		"String": "Экономические показатели здания"
+	},
+	"iteration23": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": true,
+			"textAlign": "left",
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": 0,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": true,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0
+		}
+	},
+	"iteration24": {
+		"String": "Первоначальная стоимость (с учётом возможного увеличения):"
+	},
+	"iteration25": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": "left",
+			"fontWeight": "bold",
+			"textDecoration": 0,
+			"nextdiv": 0,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": true,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0
+		}
+	},
+	"iteration26": {
+		"String": "30 001 088,00 млн. руб."
+	},
+	"iteration27": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": true,
+			"textAlign": "left",
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": 0,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": true,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0
+		}
+	},
+	"iteration28": {
+		"String": "Начисленная амортизация"
+	},
+	"iteration29": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": "left",
+			"fontWeight": "bold",
+			"textDecoration": 0,
+			"nextdiv": 0,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": true,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0
+		}
+	},
+	"iteration30": {
+		"String": "12 732 643,15 млн. руб."
+	},
+	"iteration31": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": true,
+			"textAlign": "left",
+			"fontWeight": 0,
+			"textDecoration": 0,
+			"nextdiv": 0,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": true,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0
+		}
+	},
+	"iteration32": {
+		"String": "Балансовая (восстановительная) стоимость здания в масштабе цен на 01.11.2021г."
+	},
+	"iteration33": {
+		"Settings": {
+			"colspan": 0,
+			"rowspan": 0,
+			"newTable": false,
+			"newString": false,
+			"textAlign": "left",
+			"fontWeight": "bold",
+			"textDecoration": 0,
+			"nextdiv": 0,
+			"display": "grid",
+			"textTransform": 0,
+			"Table": true,
+			"paddingTop": 0,
+			"paddingBottom": 0,
+			"paddingLeft": 0,
+			"paddingRight": 0
+		}
+	},
+	"iteration34": {
+		"String": "17 268 444,85 млн. руб."
+	}
+}

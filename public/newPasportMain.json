@@ -1,0 +1,744 @@
+{
+	"Heading": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "center",
+		"fontWeight": "bold",
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": "grid",
+		"textTransform": "uppercase",
+		"Table": false,
+		"paddingTop": 2,
+		"paddingBottom": 2,
+		"paddingLeft": 1,
+		"paddingRight": 1,
+		"paddingTopSTR": 0,
+		"paddingBottomSTR": 0,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"HeadingNewSTR": {
+		"newpageDIV": true,
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "center",
+		"fontWeight": "bold",
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": "grid",
+		"textTransform": "uppercase",
+		"Table": false,
+		"paddingTop": 2,
+		"paddingBottom": 2,
+		"paddingLeft": 1,
+		"paddingRight": 1,
+		"paddingTopSTR": 0,
+		"paddingBottomSTR": 0,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"Date": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "left",
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": "grid",
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 0,
+		"paddingBottomSTR": 0,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"UsualAndNewString": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 1.5,
+		"paddingBottomSTR": 1.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"UsualAndNewStringNOTPaddig": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 0.5,
+		"paddingBottomSTR": 0.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"UsualAndNewStringCenter": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "center",
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": true,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 1.5,
+		"paddingBottomSTR": 1.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"UsualAndString": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": false,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 1.5,
+		"paddingBottomSTR": 1.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"UsualAndStringNOTPadding": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": false,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 0.5,
+		"paddingBottomSTR": 0.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"HighlightedAndUnderlined": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": "bold",
+		"textDecoration": "underline",
+		"nextdiv": false,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 1.5,
+		"paddingBottomSTR": 1.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"HighlightedAndUnderlinedNOTPaddig": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": "bold",
+		"textDecoration": "underline",
+		"nextdiv": false,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 0.5,
+		"paddingBottomSTR": 0.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"HighlightedAndUnderlinedNewString": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": 0,
+		"fontWeight": "bold",
+		"textDecoration": "underline",
+		"nextdiv": true,
+		"display": 0,
+		"textTransform": 0,
+		"Table": false,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"paddingTopSTR": 1.5,
+		"paddingBottomSTR": 1.5,
+		"paddingLeftSTR": 0,
+		"paddingRightSTR": 0,
+		"font": "11pt Calibri",
+		"fontSize": 0
+	},
+	"newTableCenterBoldColspan2": {
+		"colspan": 2,
+		"rowspan": 0,
+		"newTable": true,
+		"newString": true,
+		"textAlign": "center",
+		"fontWeight": "bold",
+		"textDecoration": 0,
+		"nextdiv": 0,
+		"display": "grid",
+		"textTransform": 0,
+		"Table": true,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"font": "11pt Calibri"
+	},
+	"NextStringTableLeft": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "left",
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": 0,
+		"display": "grid",
+		"textTransform": 0,
+		"Table": true,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"font": "11pt Calibri"
+	},
+	"NextStringTransferTableLeft": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": true,
+		"textAlign": "left",
+		"fontWeight": 0,
+		"textDecoration": 0,
+		"nextdiv": 0,
+		"display": "grid",
+		"textTransform": 0,
+		"Table": true,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"font": "11pt Calibri"
+	},
+	"NextStringTableLeftBold": {
+		"colspan": 0,
+		"rowspan": 0,
+		"newTable": false,
+		"newString": false,
+		"textAlign": "left",
+		"fontWeight": "bold",
+		"textDecoration": 0,
+		"nextdiv": 0,
+		"display": "grid",
+		"textTransform": 0,
+		"Table": true,
+		"paddingTop": 0,
+		"paddingBottom": 0,
+		"paddingLeft": 0,
+		"paddingRight": 0,
+		"font": "11pt Calibri"
+	},
+
+	"iteration1": {
+		"Settings": "HeadingNewSTR"
+	},
+	"iteration2": {
+		"String": "Эксплутационный паспорт здани, сооружения и инженерных коммуникаций"
+	},
+	"iteration3": {
+		"Settings": "Date"
+	},
+	"iteration4": {
+		"String": "Составлен: ___. __________ 202___г."
+	},
+	"iteration5": {
+		"Settings": "UsualAndNewString"
+	},
+	"iteration6": {
+		"String": "Наименование предприятия:"
+	},
+	"iteration7": {
+		"Settings": "HighlightedAndUnderlined"
+	},
+	"iteration8": {
+		"String": "Акционерное Общество «НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ «ИСТОК» ИМЕНИ А.И. ШОКИНА»"
+	},
+	"iteration9": {
+		"Settings": "UsualAndNewString"
+	},
+	"iteration10": {
+		"String": "Адрес:"
+	},
+	"iteration11": {
+		"Settings": "HighlightedAndUnderlined"
+	},
+	"iteration12": {
+		"String": "Московская область, 141190, г. Фрязино, ул. Вокзальная, дом 2А."
+	},
+	"iteration13": {
+		"Settings": "UsualAndNewString"
+	},
+	"iteration14": {
+		"String": "Ф.И.О. руководителя службы эксплуатации:"
+	},
+	"iteration15": {
+		"Settings": "HighlightedAndUnderlined"
+	},
+	"iteration16": {
+		"String": "Резванов Олег Григорьевич"
+	},
+	"iteration17": {
+		"Settings": "UsualAndNewString"
+	},
+	"iteration18": {
+		"String": "Телефон:"
+	},
+	"iteration19": {
+		"Settings": "HighlightedAndUnderlined"
+	},
+	"iteration20": {
+		"String": "8 (495) 465 86 66 (доб.       )"
+	},
+	"iteration21": {
+		"Settings": "newTableCenterBoldColspan2"
+	},
+	"iteration22": {
+		"String": "Экономические показатели здания"
+	},
+	"iteration23": {
+		"Settings": "NextStringTransferTableLeft"
+	},
+	"iteration24": {
+		"String": "Первоначальная стоимость (с учётом возможного увеличения):"
+	},
+	"iteration25": {
+		"Settings": "NextStringTableLeftBold"
+	},
+	"iteration26": {
+		"String": "30 001 088,00 млн. руб."
+	},
+	"iteration27": {
+		"Settings": "NextStringTransferTableLeft"
+	},
+	"iteration28": {
+		"String": "Начисленная амортизация "
+	},
+	"iteration29": {
+		"Settings": "NextStringTableLeftBold"
+	},
+	"iteration30": {
+		"String": "12 732 643,15 млн. руб."
+	},
+	"iteration31": {
+		"Settings": "NextStringTransferTableLeft"
+	},
+	"iteration32": {
+		"String": "Балансовая (восстановительная) стоимость здания в масштабе цен на 01.11.2021г."
+	},
+	"iteration33": {
+		"Settings": "NextStringTableLeftBold"
+	},
+	"iteration34": {
+		"String": "17 268 444,85 млн. руб."
+	},
+	"iteration35": {
+		"Settings": "Heading"
+	},
+	"iteration36": {
+		"String": "1. ОБЩИЕ СВЕДЕНИЯ"
+	},
+	"iteration37": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration38": {
+		"String": "1.Год постройки:"
+	},
+	"iteration39": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration40": {
+		"String": "1988;"
+	},
+	"iteration41": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration42": {
+		"String": "2.Этажность:"
+	},
+	"iteration43": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration44": {
+		"String": "2 + (цокольный этаж);"
+	},
+	"iteration45": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration46": {
+		"String": "3.Площадь здания (общая):"
+	},
+	"iteration47": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration48": {
+		"String": "9239,3 м2;"
+	},
+	"iteration49": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration50": {
+		"String": "4.Площадь здания (основная):"
+	},
+	"iteration51": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration52": {
+		"String": "6878,8 м2;"
+	},
+	"iteration53": {
+		"Settings": "UsuaUsualAndNewStringNOTPaddiglAndNewString"
+	},
+	"iteration54": {
+		"String": "5.Площадь здания (вспомогательная):"
+	},
+	"iteration55": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration56": {
+		"String": "2360,5 м2;"
+	},
+	"iteration57": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration58": {
+		"String": "6.Площадь прилегаемой территории:"
+	},
+	"iteration59": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration60": {
+		"String": "Нет информации;"
+	},
+	"iteration61": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration62": {
+		"String": "7.Тип проекта/Шифр:"
+	},
+	"iteration63": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration64": {
+		"String": "Нет информации;"
+	},
+	"iteration65": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration66": {
+		"String": "8.Проектная мощность:"
+	},
+	"iteration67": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration68": {
+		"String": "Нет информации;"
+	},
+	"iteration69": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration70": {
+		"String": "9.Наличие проектной документации (включая год разработки):"
+	},
+	"iteration71": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration72": {
+		"String": "___"
+	},
+	"iteration77": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration78": {
+		"String": "•"
+	},
+	"iteration79": {
+		"Settings": "UsualAndStringNOTPadding"
+	},
+	"iteration80": {
+		"String": "Колористический паспорт:"
+	},
+	"iteration81": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration82": {
+		"String": "Нет информации;"
+	},
+	"iteration83": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration84": {
+		"String": "•"
+	},
+	"iteration85": {
+		"Settings": "UsualAndStringNOTPadding"
+	},
+	"iteration86": {
+		"String": "Проект комплексного капитального ремонта ККР (состав):"
+	},
+	"iteration87": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration88": {
+		"String": "Нет информации;"
+	},
+	"iteration89": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration90": {
+		"String": "•"
+	},
+	"iteration91": {
+		"Settings": "UsualAndStringNOTPadding"
+	},
+	"iteration92": {
+		"String": "Проект благоустройства:"
+	},
+	"iteration93": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration94": {
+		"String": "Нет информации;"
+	},
+	"iteration95": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration96": {
+		"String": "ТЗ (Техническое Заключение):"
+	},
+	"iteration97": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration98": {
+		"String": "___"
+	},
+	"iteration99": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration100": {
+		"String": "Прочие отметки:"
+	},
+	"iteration101": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration102": {
+		"String": "___"
+	},
+	"iteration103": {
+		"Settings": "HighlightedAndUnderlinedNewString"
+	},
+	"iteration104": {
+		"String": "На дату 21.09.2022 в корпусе ведутся строительные работы капитального характера;"
+	},
+
+	"iteration105": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration106": {
+		"String": "Курируют работы:"
+	},
+	"iteration107": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration108": {
+		"String": "ОКС;"
+	},
+	"iteration109": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration110": {
+		"String": "Выполняет работы:"
+	},
+	"iteration111": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration112": {
+		"String": "ООО «Технострой»;"
+	},
+	"iteration115": {
+		"Settings": "HeadingNewSTR"
+	},
+	"iteration116": {
+		"String": "2.КОНСТРУКТИВНАЯ ХАРАКТЕРИСТИКА ЗДАНИЯ"
+	},
+	"iteration117": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration118": {
+		"String": "1.Фундаменты:"
+	},
+	"iteration119": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration120": {
+		"String": "Ленточный железобетонный;"
+	},
+	"iteration121": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration122": {
+		"String": "2.Несущий каркас:"
+	},
+	"iteration123": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration124": {
+		"String": "Колонны железобетонные;"
+	},
+	"iteration125": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration126": {
+		"String": "3.Стены и перегородки:"
+	},
+	"iteration127": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration128": {
+		"String": "Кирпичные, гипсокартонные, панели железобетонные;"
+	},
+	"iteration129": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration130": {
+		"String": "4.Междуэтажные и чердачное перекрытия:"
+	},
+	"iteration131": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration132": {
+		"String": "Плиты железобетонные;"
+	},
+	"iteration133": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration134": {
+		"String": "5.Лестницы:"
+	},
+	"iteration135": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration136": {
+		"String": "Железобетонные;"
+	},
+	"iteration137": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration138": {
+		"String": "6.Несущие элементы кровли:"
+	},
+	"iteration139": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration140": {
+		"String": "Плиты железобетонные;"
+	},
+	"iteration141": {
+		"Settings": "UsualAndNewStringNOTPaddig"
+	},
+	"iteration142": {
+		"String": "7.Кровля (тип):"
+	},
+	"iteration143": {
+		"Settings": "HighlightedAndUnderlinedNOTPaddig"
+	},
+	"iteration144": {
+		"String": "Мягкая;"
+	}
+}

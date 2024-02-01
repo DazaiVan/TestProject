@@ -1,0 +1,6318 @@
+{
+    "iteration1": {
+        "Settings": {
+            "colspan": 0,
+            "rowspan": 0,
+            "newTable": false,
+            "newString": false,
+            "textAlign": "center",
+            "fontWeight": "bold",
+            "textDecoration": 0,
+            "nextdiv": true,
+            "display": "grid",
+            "textTransform": "uppercase",
+            "Table": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "paddingLeft": 1,
+            "paddingRight": 1,
+            "paddingTopSTR": 0,
+            "paddingBottomSTR": 0,
+            "paddingLeftSTR": 0,
+            "paddingRightSTR": 0,
+            "font":0,
+            "fontSize":0
+        }
+    },
+    "iteration2": {
+        "String": "Эксплутационный паспорт здани, сооружения и инженерных коммуникаций"
+    },
+    "iteration3": {
+        "Settings": {
+            "colspan": 0,
+            "rowspan": 0,
+            "newTable": false,
+            "newString": false,
+            "textAlign": "right",
+            "fontWeight": 0,
+            "textDecoration": 0,
+            "nextdiv": true,
+            "display": "grid",
+            "textTransform": 0,
+            "Table": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTopSTR": 0,
+            "paddingBottomSTR": 0,
+            "paddingLeftSTR": 0,
+            "paddingRightSTR": 0,
+            "font":0,
+            "fontSize":0
+		}
+        },
+        "iteration4": {
+            "String": "Составлен 15 ноября 2013г."
+        },
+        "iteration5": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration6": {
+            "String": "Наименование и номер учреждения"
+        },
+        "iteration7": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration8": {
+            "String": "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1526 (ГБОУ Гимназия № 1526)"
+        },
+        "iteration9": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration10": {
+            "String": "Округ"
+        },
+        "iteration11": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration12": {
+            "String": "Южный"
+        },
+        "iteration13": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration14": {
+            "String": "Район"
+        },
+        "iteration15": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration16": {
+            "String": "Чертаново Южное"
+        },
+        "iteration17": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration18": {
+            "String": "Адрес"
+        },
+        "iteration19": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration20": {
+            "String": "117535, Москва, улица Дорожная, дом 20А"
+        },
+        "iteration21": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration22": {
+            "String": "Телефоны"
+        },
+        "iteration23": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration24": {
+            "String": " (495) 382-04-65"
+        },
+        "iteration25": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration26": {
+            "String": "Ф.И.О. руководителя"
+        },
+        "iteration27": {
+            "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": "bold",
+                "textDecoration": "underline",
+                "nextdiv": false,
+                "display": 0,
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 2,
+                "paddingRight": 0,
+                "paddingTopSTR": 0.2,
+                "paddingBottomSTR": 0.2,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+        },
+        "iteration28": {
+            "String": "Болдина Тамара Герасимовна"
+        },
+        "iteration29": {
+                "Settings": {
+                "colspan": 0,
+                "rowspan": 0,
+                "newTable": false,
+                "newString": false,
+                "textAlign": 0,
+                "fontWeight": 0,
+                "textDecoration": 0,
+                "nextdiv": true,
+                "display": "grid",
+                "textTransform": 0,
+                "Table": false,
+                "paddingTop": 2,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTopSTR": 0,
+                "paddingBottomSTR": 0,
+                "paddingLeftSTR": 0,
+                "paddingRightSTR": 0,
+                "font":0,
+                "fontSize":0
+            }
+            },
+        "iteration30": {
+                "String": "Балансовая (восстановительная) стоимость здания в масштабе цен на 01.01.2013 г."
+            },
+        "iteration31": {
+                "Settings": {
+                    "colspan": 0,
+                    "rowspan": 0,
+                    "newTable": false,
+                    "newString": false,
+                    "textAlign": 0,
+                    "fontWeight": "bold",
+                    "textDecoration": "underline",
+                    "nextdiv": true,
+                    "display": "grid",
+                    "textTransform": 0,
+                    "Table": false,
+                    "paddingTop": 0.2,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTopSTR": 0,
+                    "paddingBottomSTR": 0,
+                    "paddingLeftSTR": 0,
+                    "paddingRightSTR": 0,
+                    "font":0,
+                    "fontSize":0
+                }
+                },
+        "iteration32": {
+                    "String": "66525105,33 млн.руб."
+                },
+                "iteration33": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": "center",
+                        "fontWeight": "bold",
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": "grid",
+                        "textTransform": "uppercase",
+                        "Table": false,
+                        "paddingTop": 2,
+                        "paddingBottom": 1,
+                        "paddingLeft": 1,
+                        "paddingRight": 1,
+                        "paddingTopSTR": 0,
+                        "paddingBottomSTR": 0,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration34": {
+                    "String": "1. ОБЩИЕ СВЕДЕНИЯ"
+                },
+                "iteration35": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration36": {
+                    "String": "1. Год постройки"
+                },
+                "iteration37": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration38": {
+                    "String": "1983"
+                },
+                "iteration39": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration40": {
+                    "String": "2. Этажность"
+                },
+                "iteration41": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration42": {
+                    "String": "3"
+                },
+                "iteration43": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration44": {
+                    "String": "3. Площадь здания"
+                },
+                "iteration45": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration46": {
+                    "String": "8752,7 м²"
+                },
+                "iteration47": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration48": {
+                    "String": "4. Площадь прилегаемой территории"
+                },
+                "iteration49": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration50": {
+                    "String": "19725 м²"
+                },
+                "iteration51": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration52": {
+                    "String": "5. Тип проекта"
+                },
+                "iteration53": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration54": {
+                    "String": "V-76"
+                },
+                "iteration55": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration56": {
+                    "String": "6. Проектная мощность"
+                },
+                "iteration57": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration58": {
+                    "String": "1176 чел."
+                },
+                "iteration59": {
+                    "Settings": {
+                    "colspan": 0,
+                    "rowspan": 0,
+                    "newTable": false,
+                    "newString": false,
+                    "textAlign": 0,
+                    "fontWeight": 0,
+                    "textDecoration": 0,
+                    "nextdiv": true,
+                    "display": "grid",
+                    "textTransform": 0,
+                    "Table": false,
+                    "paddingTop": 0.2,
+                    "paddingBottom": 0.2,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTopSTR": 0,
+                    "paddingBottomSTR": 0,
+                    "paddingLeftSTR": 0,
+                    "paddingRightSTR": 0,
+                    "font":0,
+                    "fontSize":0
+                }
+                },
+            "iteration60": {
+                    "String": "7. Наличие проектной документации (включая год разработки):"
+                },
+                "iteration61": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration62": {
+                    "String": "Колористический паспорт"
+                },
+                "iteration63": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration64": {
+                    "String": "нет"
+                },
+                "iteration65": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration66": {
+                    "String": "Проект ККР (состав)"
+                },
+                "iteration67": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration68": {
+                    "String": "нет"
+                },
+                "iteration69": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration71": {
+                    "String": "Проект благоустройства"
+                },
+                "iteration72": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration73": {
+                    "String": "№ ЮАО(16) – 00/0339, 2009 г."
+                },
+                "iteration74": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration75": {
+                    "String": "ТЗК"
+                },
+                "iteration76": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration77": {
+                    "String": "___"
+                },
+                "iteration78": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration79": {
+                    "String": "8.Прочие отметки"
+                },
+                "iteration80": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration81": {
+                    "String": "___"
+                },
+                "iteration82": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration83": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": "center",
+                        "fontWeight": "bold",
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": "grid",
+                        "textTransform": "uppercase",
+                        "Table": false,
+                        "paddingTop": 2,
+                        "paddingBottom": 0.2,
+                        "paddingLeft": 1,
+                        "paddingRight": 1,
+                        "paddingTopSTR": 0,
+                        "paddingBottomSTR": 0,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration84": {
+                    "String": "2. КОНСТРУКТИВНАЯ ХАРАКТЕРИСТИКА ЗДАНИЯ"
+                },
+                "iteration85": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration86": {
+                    "String": "1. Фундаменты"
+                },
+                "iteration87": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration88": {
+                    "String": "ж/б блоки"
+                },
+                "iteration89": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration90": {
+                    "String": "2. Несущий каркас"
+                },
+                "iteration91": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration92": {
+                    "String": "ж/бетон"
+                },
+                "iteration93": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration94": {
+                    "String": "3. Стены и перегородки"
+                },
+                "iteration95": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration96": {
+                    "String": "керамзитобетонные плиты, гипсобетонные перегородки"
+                },
+                "iteration97": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration98": {
+                    "String": "4. Междуэтажные и чердачное перекрытия"
+                },
+                "iteration99": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration100": {
+                    "String": "ж/б плиты"
+                },
+                "iteration101": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration102": {
+                    "String": "5. Лестницы"
+                },
+                "iteration103": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration104": {
+                    "String": "ж/б"
+                },
+                "iteration105": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration106": {
+                    "String": "6. Несущие элементы кровли"
+                },
+                "iteration107": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration108": {
+                    "String": "ж/б плиты"
+                },
+                "iteration109": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": 0,
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration110": {
+                    "String": "7. Кровля (водоизолирующий слой)"
+                },
+                "iteration111": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": 0,
+                        "fontWeight": "bold",
+                        "textDecoration": "underline",
+                        "nextdiv": false,
+                        "display": 0,
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 2,
+                        "paddingRight": 0,
+                        "paddingTopSTR": 0.2,
+                        "paddingBottomSTR": 0.2,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration112": {
+                    "String": "совмещенное, рулонное"
+                },
+                "iteration113": {
+                    "Settings": {
+                        "colspan": 0,
+                        "rowspan": 0,
+                        "newTable": false,
+                        "newString": false,
+                        "textAlign": "center",
+                        "fontWeight": "bold",
+                        "textDecoration": 0,
+                        "nextdiv": true,
+                        "display": "grid",
+                        "textTransform": 0,
+                        "Table": false,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingLeft": 1,
+                        "paddingRight": 1,
+                        "paddingTopSTR": 0.4,
+                        "paddingBottomSTR": 0.4,
+                        "paddingLeftSTR": 0,
+                        "paddingRightSTR": 0,
+                        "font":0,
+                        "fontSize":0
+                    }
+                },
+                "iteration114": {
+                    "String": "А. Площади кровли"
+                },
+                "iteration115":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":true,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration116":
+{
+    "String":"№п/п"
+
+    
+},
+"iteration117":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration118":
+{
+    "String":"Наименование кровли"
+
+    
+},
+"iteration119":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration120":
+{
+    "String":"Всего, м"
+
+    
+},
+"iteration121":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration122":
+{
+    "String":"1."
+
+    
+},
+"iteration123":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration124":
+{
+    "String":"рубероид"
+
+    
+},
+"iteration125":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration126":
+{
+    "String":"3050 м²"
+
+    
+},
+"iteration127": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": "center",
+        "fontWeight": "bold",
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": "grid",
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 1,
+        "paddingRight": 1,
+        "paddingTopSTR": 0.4,
+        "paddingBottomSTR": 0.4,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration128": {
+    "String": "В. Площади помещений"
+}   ,            
+ "iteration129":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":true,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration130":
+{
+    "String":"№п/п"
+
+    
+},
+"iteration131":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration132":
+{
+    "String":"Наименование площади помещений"
+
+    
+},
+"iteration133":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration134":
+{
+    "String":"Всего, м"
+
+    
+},
+"iteration135":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration136":
+{
+    "String":"1."
+
+    
+},
+"iteration137":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration138":
+{
+    "String":"Подвал – 216,8"
+
+    
+},
+"iteration139":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 5,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration140":
+{
+    "String":"8752,7м²"
+
+    
+},
+"iteration141":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration142":
+{
+    "String":"2."
+
+    
+},
+"iteration143":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration144":
+{
+    "String":"Техническое подполье – 1730,6"
+
+    
+},
+"iteration145":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration146":
+{
+    "String":"3."
+
+    
+},
+"iteration147":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration148":
+{
+    "String":"1 этаж – 2238,1"
+
+    
+},
+"iteration149":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration150":
+{
+    "String":"4."
+
+    
+},
+"iteration151":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration152":
+{
+    "String":"2 этаж – 2512,9"
+
+    
+},
+"iteration153":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":true,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration154":
+{
+    "String":"5."
+
+    
+},
+"iteration155":
+{
+    "Settings":
+    {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable":false,
+        "newString":false,
+        "textAlign":"center",
+        "fontWeight":"bold",
+        "textDecoration": 0,
+        "nextdiv":0,
+        "display":"grid",
+        "textTransform":0,
+        "Table":true,
+        "paddingTop":0,
+        "paddingBottom":0,
+        "paddingLeft":0,
+        "paddingRight":0
+    }
+
+    
+},
+"iteration156":
+{
+    "String":"3 этаж – 2054,3"
+
+    
+},
+"iteration157": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": "center",
+        "fontWeight": "bold",
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": "grid",
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 1,
+        "paddingRight": 1,
+        "paddingTopSTR": 0.4,
+        "paddingBottomSTR": 0.4,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration158": {
+    "String": "Г. Площади полов"
+},
+"iteration159":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":true,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration160":
+{
+"String":"№п/п"
+
+
+},
+"iteration161":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration162":
+{
+"String":"Наименование площади полов"
+
+
+},
+"iteration163":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration164":
+{
+"String":"Всего, м"
+
+
+},
+"iteration165":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration166":
+{
+"String":"1."
+
+
+},
+"iteration167":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration168":
+{
+"String":"Подвал, техническое подполье, 1, 2, 3 этажи"
+
+
+},
+"iteration169":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration170":
+{
+"String":"8752,7 м²"
+
+
+},
+"iteration171": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 1,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration172": {
+    "String": "1. Торцовая шашка"
+},
+"iteration173": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration174": {
+    "String": "___"
+},
+"iteration175": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration176": {
+    "String": "2. Бетонные"
+},
+"iteration177": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration178": {
+    "String": "1742,5"
+},
+"iteration179": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration180": {
+    "String": "3. Гранитная брусчатка"
+},
+"iteration181": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration182": {
+    "String": "___"
+},
+"iteration183": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration184": {
+    "String": "4. Чугунные, стальные"
+},
+"iteration185": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration186": {
+    "String": "___"
+},
+"iteration187": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration188": {
+    "String": "5. Асфальтовые"
+},
+"iteration189": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration190": {
+    "String": "___"
+},
+"iteration191": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration192": {
+    "String": "6. Цементные"
+},
+"iteration193": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration194": {
+    "String": "___"
+},
+"iteration195": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration196": {
+    "String": "7. Мозаичные"
+},
+"iteration197": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration198": {
+    "String": "___"
+},
+"iteration199": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration200": {
+    "String": "8. Из метлахской плитки"
+},
+"iteration201": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration202": {
+    "String": "1452,6"
+},
+"iteration203": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration204": {
+    "String": "9. Ксилолитовые"
+},
+"iteration205": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration206": {
+    "String": "___"
+},
+"iteration207": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration208": {
+    "String": "10. Паркетные"
+},
+"iteration209": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration210": {
+    "String": "301,8"
+},
+"iteration211": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration212": {
+    "String": "11. Дощатые"
+},
+"iteration213": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration214": {
+    "String": "398,4"
+},
+"iteration215": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration216": {
+    "String": "12. Линолеумные"
+},
+"iteration217": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration218": {
+    "String": "4729"
+},
+"iteration219": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration220": {
+    "String": "13. Наливные бесшовные"
+},
+"iteration221": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration222": {
+    "String": "___"
+},
+"iteration223": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration224": {
+    "String": "14. Из плитки ПХВ"
+},
+"iteration225": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration226": {
+    "String": "___"
+},
+"iteration227": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": 0,
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration228": {
+    "String": "15. Прочие:"
+},
+"iteration229": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": 0,
+        "fontWeight": "bold",
+        "textDecoration": "underline",
+        "nextdiv": false,
+        "display": 0,
+        "textTransform": 0,
+        "Table": false,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 2,
+        "paddingRight": 0,
+        "paddingTopSTR": 0.2,
+        "paddingBottomSTR": 0.2,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration230": {
+    "String": "ковролин – 128,4"
+},
+"iteration231": {
+    "Settings": {
+        "colspan": 0,
+        "rowspan": 0,
+        "newTable": false,
+        "newString": false,
+        "textAlign": "center",
+        "fontWeight": "bold",
+        "textDecoration": 0,
+        "nextdiv": true,
+        "display": "grid",
+        "textTransform": "uppercase",
+        "Table": false,
+        "paddingTop": 2,
+        "paddingBottom": 0.2,
+        "paddingLeft": 1,
+        "paddingRight": 1,
+        "paddingTopSTR": 0,
+        "paddingBottomSTR": 0,
+        "paddingLeftSTR": 0,
+        "paddingRightSTR": 0,
+        "font":0,
+        "fontSize":0
+    }
+},
+"iteration232": {
+    "String": "3. ОСНОВНЫЕ ДАННЫЕ ЗДАНИЯ"
+},
+"iteration233":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":true,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration234":
+{
+"String":"Элемент здания"
+
+
+},
+"iteration235":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration236":
+{
+"String":"Вид или тип"
+
+
+},
+"iteration237":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration238":
+{
+"String":"Вид ремонта и год последнего ремонта"
+
+
+},
+"iteration239":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration240":
+{
+"String":"Состояние"
+
+
+},
+"iteration241":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration242":
+{
+"String":"Рекомендации"
+
+
+},
+"iteration243":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration244":
+{
+"String":"Фасад"
+
+
+},
+"iteration245":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration246":
+{
+"String":"Плита керамзитбетонная, клеевая окраска, керамзитная платка"
+
+
+},
+"iteration247":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration248":
+{
+"String":"2011"
+
+
+},
+"iteration249":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration250":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration251":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration252":
+{
+"String":""
+
+
+},
+"iteration253":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration254":
+{
+"String":""
+
+
+},
+"iteration255":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration256":
+{
+"String":""
+
+
+},
+"iteration257":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration258":
+{
+"String":""
+
+
+},
+"iteration259":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration260":
+{
+"String":""
+
+
+},
+"iteration261":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration262":
+{
+"String":""
+
+
+},
+"iteration263":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration264":
+{
+"String":"Цоколь"
+
+
+},
+"iteration265":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration266":
+{
+"String":"ж/б блоки, керамзитная плитка"
+
+
+},
+"iteration267":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration268":
+{
+"String":""
+
+
+},
+"iteration269":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration270":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration271":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration272":
+{
+"String":""
+
+
+},
+"iteration273":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration274":
+{
+"String":""
+
+
+},
+"iteration275":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration276":
+{
+"String":""
+
+
+},
+"iteration277":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration278":
+{
+"String":""
+
+
+},
+"iteration279":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration280":
+{
+"String":""
+
+
+},
+"iteration281":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration282":
+{
+"String":""
+
+
+},
+"iteration283":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration284":
+{
+"String":"Фундамент"
+
+
+},
+"iteration285":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration286":
+{
+"String":"ж/б блоки"
+
+
+},
+"iteration287":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration288":
+{
+"String":""
+
+
+},
+"iteration289":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration290":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration291":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration292":
+{
+"String":""
+
+
+},
+"iteration293":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration294":
+{
+"String":""
+
+
+},
+"iteration295":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration296":
+{
+"String":""
+
+
+},
+"iteration297":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration298":
+{
+"String":""
+
+
+},
+"iteration299":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration300":
+{
+"String":""
+
+
+},
+"iteration301":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration302":
+{
+"String":""
+
+
+},
+"iteration303":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration304":
+{
+"String":"Наружные стены"
+
+
+},
+"iteration305":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration306":
+{
+"String":"Плита керамзитобетонная"
+
+
+},
+"iteration307":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration308":
+{
+"String":""
+
+
+},
+"iteration309":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration310":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration311":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration312":
+{
+"String":""
+
+
+},
+"iteration313":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration314":
+{
+"String":""
+
+
+},
+"iteration315":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration316":
+{
+"String":""
+
+
+},
+"iteration317":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration318":
+{
+"String":""
+
+
+},
+"iteration319":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration320":
+{
+"String":""
+
+
+},
+"iteration321":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration322":
+{
+"String":""
+
+
+},
+"iteration323":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration324":
+{
+"String":"Перегородки"
+
+
+},
+"iteration325":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration326":
+{
+"String":"гипсобетонные"
+
+
+},
+"iteration327":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration328":
+{
+"String":""
+
+
+},
+"iteration329":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration330":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration331":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration332":
+{
+"String":""
+
+
+},
+"iteration333":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration334":
+{
+"String":""
+
+
+},
+"iteration335":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration336":
+{
+"String":""
+
+
+},
+"iteration337":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration338":
+{
+"String":""
+
+
+},
+"iteration339":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration340":
+{
+"String":""
+
+
+},
+"iteration341":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration342":
+{
+"String":""
+
+
+},
+"iteration343":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration344":
+{
+"String":"Кровля"
+
+
+},
+"iteration345":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration346":
+{
+"String":"Совмещенная, рулонная, ребероид"
+
+
+},
+"iteration347":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration348":
+{
+"String":""
+
+
+},
+"iteration349":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration350":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration351":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration352":
+{
+"String":""
+
+
+},
+"iteration353":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration354":
+{
+"String":""
+
+
+},
+"iteration355":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration356":
+{
+"String":""
+
+
+},
+"iteration357":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration358":
+{
+"String":""
+
+
+},
+"iteration359":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration360":
+{
+"String":""
+
+
+},
+"iteration361":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration362":
+{
+"String":""
+
+
+},
+"iteration363":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration364":
+{
+"String":"Ограждение кровли"
+
+
+},
+"iteration365":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration366":
+{
+"String":"Бетонные панели"
+
+
+},
+"iteration367":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration368":
+{
+"String":""
+
+
+},
+"iteration369":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration370":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration371":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration372":
+{
+"String":""
+
+
+},
+"iteration373":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration374":
+{
+"String":""
+
+
+},
+"iteration375":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration376":
+{
+"String":""
+
+
+},
+"iteration377":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration378":
+{
+"String":""
+
+
+},
+"iteration379":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration380":
+{
+"String":""
+
+
+},
+"iteration381":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration382":
+{
+"String":""
+
+
+},
+"iteration383":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration384":
+{
+"String":"Водосток"
+
+
+},
+"iteration385":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration386":
+{
+"String":"Внутренний водосток"
+
+
+},
+"iteration387":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration388":
+{
+"String":""
+
+
+},
+"iteration389":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration390":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration391":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration392":
+{
+"String":""
+
+
+},
+"iteration393":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration394":
+{
+"String":""
+
+
+},
+"iteration395":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration396":
+{
+"String":""
+
+
+},
+"iteration397":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration398":
+{
+"String":""
+
+
+},
+"iteration399":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration400":
+{
+"String":""
+
+
+},
+"iteration401":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration402":
+{
+"String":""
+
+
+},
+"iteration403":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration404":
+{
+"String":"Перекрытия"
+
+
+},
+"iteration405":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration406":
+{
+"String":"ж/б плиты "
+
+
+},
+"iteration407":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration408":
+{
+"String":""
+
+
+},
+"iteration409":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration410":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration411":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration412":
+{
+"String":""
+
+
+},
+"iteration413":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration414":
+{
+"String":""
+
+
+},
+"iteration415":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration416":
+{
+"String":""
+
+
+},
+"iteration417":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration418":
+{
+"String":""
+
+
+},
+"iteration419":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration420":
+{
+"String":""
+
+
+},
+"iteration421":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration422":
+{
+"String":""
+
+
+},
+"iteration423":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration424":
+{
+"String":"Лестницы"
+
+
+},
+"iteration425":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration426":
+{
+"String":"Клеевая покраска, ж/б плиты - пролеты"
+
+
+},
+"iteration427":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration428":
+{
+"String":"2011"
+
+
+},
+"iteration429":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration430":
+{
+"String":"удовлетворительное"
+
+
+},
+"iteration431":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration432":
+{
+"String":""
+
+
+},
+"iteration433":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":true,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration434":
+{
+"String":""
+
+
+},
+"iteration435":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration436":
+{
+"String":""
+
+
+},
+"iteration437":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration438":
+{
+"String":""
+
+
+},
+"iteration439":
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration440":
+{
+"String":""
+
+
+},
+"iteration441":    
+{
+"Settings":
+{
+"colspan": 0,
+"rowspan": 0,
+"newTable":false,
+"newString":false,
+"textAlign":"center",
+"fontWeight":"bold",
+"textDecoration": 0,
+"nextdiv":0,
+"display":"grid",
+"textTransform":0,
+"Table":true,
+"paddingTop":0,
+"paddingBottom":0,
+"paddingLeft":0,
+"paddingRight":0
+}
+
+
+},
+"iteration442":
+{
+"String":""
+
+
+}
+}
