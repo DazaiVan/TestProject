@@ -12,6 +12,12 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
+<<<<<<< Updated upstream
+=======
+    "jquery": "^3.7.1",
+    "occt-import-js": "^0.0.21",
+    "step-to-json": "^3.0.0",
+>>>>>>> Stashed changes
     "three": "^0.160.0"
   }
 }
