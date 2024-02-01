@@ -646,6 +646,8 @@ async function Load() {
 	})
 }
 Load()
+var buttonLine = document.createElement('div')
+document.body.appendChild(buttonLine)
 
 /*
 //let fs = require('fs')
